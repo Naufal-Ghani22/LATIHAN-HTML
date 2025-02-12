@@ -1,0 +1,31 @@
+
+/* Universal Selector */
+* {
+    font-family: Arial;
+}
+
+/* type selector */
+h1{
+    color : brown ;
+    font-family:Verdana;
+}
+
+/* CLass Selector */
+.cerita {
+   color:brown; 
+}
+
+/* ID Selector */
+#list {
+    color: aquamarine;
+}
+
+/* Child Selector */
+p>strong {
+    color: brown;
+}
+
+/* decendant selector */
+p em{
+    color: blueviolet;
+}
